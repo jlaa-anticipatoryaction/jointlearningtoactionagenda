@@ -1,6 +1,3 @@
-
-ANTONIO PLUS
-
 # Joint Learning Agenda on Anticipatory Action Evidence
 
 > A coordinated agenda to align the pace of evidence generation with the speed of
