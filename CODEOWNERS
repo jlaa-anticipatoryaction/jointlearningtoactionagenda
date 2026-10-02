@@ -1,0 +1,5 @@
+# Match everything (*) and assign it to specific users or a team
+*       @jlaa-anticipatoryaction @kamrankniazi @scognamillo
+
+# Assign a specific folder to a different specialist
+/src/backend/ @backend-lead
